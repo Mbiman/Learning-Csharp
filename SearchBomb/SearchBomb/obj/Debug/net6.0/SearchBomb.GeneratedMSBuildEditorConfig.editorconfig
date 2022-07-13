@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SearchBomb
-build_property.ProjectDir = /home/mbiman/Documents/SearchBomb/SearchBomb/
+build_property.ProjectDir = /home/mbiman/Documents/repos/learning-csharp/SearchBomb/SearchBomb/

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mbiman/Documents/SearchBomb/SearchBomb/SearchBomb.csproj": {}
+    "/home/mbiman/Documents/repos/learning-csharp/SearchBomb/SearchBomb/SearchBomb.csproj": {}
   },
   "projects": {
-    "/home/mbiman/Documents/SearchBomb/SearchBomb/SearchBomb.csproj": {
+    "/home/mbiman/Documents/repos/learning-csharp/SearchBomb/SearchBomb/SearchBomb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mbiman/Documents/SearchBomb/SearchBomb/SearchBomb.csproj",
+        "projectUniqueName": "/home/mbiman/Documents/repos/learning-csharp/SearchBomb/SearchBomb/SearchBomb.csproj",
         "projectName": "SearchBomb",
-        "projectPath": "/home/mbiman/Documents/SearchBomb/SearchBomb/SearchBomb.csproj",
+        "projectPath": "/home/mbiman/Documents/repos/learning-csharp/SearchBomb/SearchBomb/SearchBomb.csproj",
         "packagesPath": "/home/mbiman/.nuget/packages/",
-        "outputPath": "/home/mbiman/Documents/SearchBomb/SearchBomb/obj/",
+        "outputPath": "/home/mbiman/Documents/repos/learning-csharp/SearchBomb/SearchBomb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mbiman/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

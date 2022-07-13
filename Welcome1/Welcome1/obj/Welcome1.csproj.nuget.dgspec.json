@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mbiman\\source\\repos\\Welcome1\\Welcome1\\Welcome1.csproj": {}
+    "/home/mbiman/Documents/repos/learning-csharp/Welcome1/Welcome1/Welcome1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mbiman\\source\\repos\\Welcome1\\Welcome1\\Welcome1.csproj": {
+    "/home/mbiman/Documents/repos/learning-csharp/Welcome1/Welcome1/Welcome1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mbiman\\source\\repos\\Welcome1\\Welcome1\\Welcome1.csproj",
+        "projectUniqueName": "/home/mbiman/Documents/repos/learning-csharp/Welcome1/Welcome1/Welcome1.csproj",
         "projectName": "Welcome1",
-        "projectPath": "C:\\Users\\Mbiman\\source\\repos\\Welcome1\\Welcome1\\Welcome1.csproj",
-        "packagesPath": "C:\\Users\\Mbiman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mbiman\\source\\repos\\Welcome1\\Welcome1\\obj\\",
+        "projectPath": "/home/mbiman/Documents/repos/learning-csharp/Welcome1/Welcome1/Welcome1.csproj",
+        "packagesPath": "/home/mbiman/.nuget/packages/",
+        "outputPath": "/home/mbiman/Documents/repos/learning-csharp/Welcome1/Welcome1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mbiman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mbiman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

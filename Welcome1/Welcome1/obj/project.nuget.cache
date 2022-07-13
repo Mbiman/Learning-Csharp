@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qkBXvdOw2DLk0XjfC3v86rQL+VJ7UKnAMrjjHAniIyFvLsdNfKgdI39AIPKpOMQDDBkhIgyT7n8S6fTbPni1Pg==",
+  "dgSpecHash": "QiS3qpxVmDhwC15lvZ+NDf8v8m7Qad/63wSXam+5slmCqH/QRd6qoxhUEnkEX5P8/XNMIzr+O7ztXPB+1pM0wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mbiman\\source\\repos\\Welcome1\\Welcome1\\Welcome1.csproj",
+  "projectFilePath": "/home/mbiman/Documents/repos/learning-csharp/Welcome1/Welcome1/Welcome1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
