@@ -1,0 +1,15 @@
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.exe
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.deps.json
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.runtimeconfig.json
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.dll
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.pdb
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.csproj.AssemblyReference.cache
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.AssemblyInfoInputs.cache
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.AssemblyInfo.cs
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.csproj.CoreCompileInputs.cache
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.dll
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\refint\Welcome1.dll
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.pdb
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.genruntimeconfig.cache
+C:\Users\Mbiman\source\repos\Welcome1\Welcome1\obj\Debug\net6.0\ref\Welcome1.dll

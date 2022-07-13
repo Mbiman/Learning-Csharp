@@ -1,0 +1,15 @@
+C:\Users\Mbiman\source\repos\Months\Months\bin\Debug\net6.0\Months.exe
+C:\Users\Mbiman\source\repos\Months\Months\bin\Debug\net6.0\Months.deps.json
+C:\Users\Mbiman\source\repos\Months\Months\bin\Debug\net6.0\Months.runtimeconfig.json
+C:\Users\Mbiman\source\repos\Months\Months\bin\Debug\net6.0\Months.dll
+C:\Users\Mbiman\source\repos\Months\Months\bin\Debug\net6.0\Months.pdb
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.csproj.AssemblyReference.cache
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.AssemblyInfoInputs.cache
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.AssemblyInfo.cs
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.csproj.CoreCompileInputs.cache
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.dll
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\refint\Months.dll
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.pdb
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\Months.genruntimeconfig.cache
+C:\Users\Mbiman\source\repos\Months\Months\obj\Debug\net6.0\ref\Months.dll
