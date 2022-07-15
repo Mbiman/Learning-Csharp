@@ -1,0 +1,15 @@
+/home/mbiman/Documents/repos/learning-csharp/Random/bin/Debug/net6.0/Random
+/home/mbiman/Documents/repos/learning-csharp/Random/bin/Debug/net6.0/Random.deps.json
+/home/mbiman/Documents/repos/learning-csharp/Random/bin/Debug/net6.0/Random.runtimeconfig.json
+/home/mbiman/Documents/repos/learning-csharp/Random/bin/Debug/net6.0/Random.dll
+/home/mbiman/Documents/repos/learning-csharp/Random/bin/Debug/net6.0/Random.pdb
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.csproj.AssemblyReference.cache
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.AssemblyInfoInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.AssemblyInfo.cs
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.csproj.CoreCompileInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.dll
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/refint/Random.dll
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.pdb
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/Random.genruntimeconfig.cache
+/home/mbiman/Documents/repos/learning-csharp/Random/obj/Debug/net6.0/ref/Random.dll
