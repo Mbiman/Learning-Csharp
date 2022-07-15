@@ -1,0 +1,15 @@
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.csproj.AssemblyReference.cache
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.AssemblyInfoInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.AssemblyInfo.cs
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.csproj.CoreCompileInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/bin/Debug/net6.0/GameOfChance
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/bin/Debug/net6.0/GameOfChance.deps.json
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/bin/Debug/net6.0/GameOfChance.runtimeconfig.json
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/bin/Debug/net6.0/GameOfChance.dll
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/bin/Debug/net6.0/GameOfChance.pdb
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.dll
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/refint/GameOfChance.dll
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.pdb
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/GameOfChance.genruntimeconfig.cache
+/home/mbiman/Documents/repos/learning-csharp/GameOfChance/obj/Debug/net6.0/ref/GameOfChance.dll

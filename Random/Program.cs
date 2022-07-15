@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Rolling a Six-Sided Die
+using System;
 
 public class RandomIntegers
 {
@@ -11,7 +12,7 @@ public class RandomIntegers
         for (int i = 1; i <= 20; i++)
         {
             //pick random integer from 1 to 5
-            face = randomNumbers.Next(1, 5);
+            face = randomNumbers.Next(1, 6);
 
             Console.Write("{0} ", face); //display generated value
 
