@@ -1,0 +1,15 @@
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.csproj.AssemblyReference.cache
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.AssemblyInfoInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.AssemblyInfo.cs
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.csproj.CoreCompileInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/bin/Debug/net6.0/methodOverloading
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/bin/Debug/net6.0/methodOverloading.deps.json
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/bin/Debug/net6.0/methodOverloading.runtimeconfig.json
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/bin/Debug/net6.0/methodOverloading.dll
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/bin/Debug/net6.0/methodOverloading.pdb
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.dll
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/refint/methodOverloading.dll
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.pdb
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/methodOverloading.genruntimeconfig.cache
+/home/mbiman/Documents/repos/learning-csharp/methodOverloading/obj/Debug/net6.0/ref/methodOverloading.dll

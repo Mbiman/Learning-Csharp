@@ -1,0 +1,15 @@
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.csproj.AssemblyReference.cache
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.AssemblyInfoInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.AssemblyInfo.cs
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.csproj.CoreCompileInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/bin/Debug/net6.0/optionalArguments
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/bin/Debug/net6.0/optionalArguments.deps.json
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/bin/Debug/net6.0/optionalArguments.runtimeconfig.json
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/bin/Debug/net6.0/optionalArguments.dll
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/bin/Debug/net6.0/optionalArguments.pdb
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.dll
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/refint/optionalArguments.dll
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.pdb
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/optionalArguments.genruntimeconfig.cache
+/home/mbiman/Documents/repos/learning-csharp/optionalArguments/obj/Debug/net6.0/ref/optionalArguments.dll
