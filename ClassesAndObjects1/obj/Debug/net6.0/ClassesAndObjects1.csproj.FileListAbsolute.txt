@@ -1,0 +1,15 @@
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/bin/Debug/net6.0/ClassesAndObjects1
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/bin/Debug/net6.0/ClassesAndObjects1.deps.json
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/bin/Debug/net6.0/ClassesAndObjects1.runtimeconfig.json
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/bin/Debug/net6.0/ClassesAndObjects1.dll
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/bin/Debug/net6.0/ClassesAndObjects1.pdb
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.csproj.AssemblyReference.cache
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.AssemblyInfoInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.AssemblyInfo.cs
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.csproj.CoreCompileInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.dll
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/refint/ClassesAndObjects1.dll
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.pdb
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ClassesAndObjects1.genruntimeconfig.cache
+/home/mbiman/Documents/repos/learning-csharp/ClassesAndObjects1/obj/Debug/net6.0/ref/ClassesAndObjects1.dll

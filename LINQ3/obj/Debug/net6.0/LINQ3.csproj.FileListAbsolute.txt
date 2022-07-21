@@ -1,0 +1,15 @@
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/bin/Debug/net6.0/LINQ3
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/bin/Debug/net6.0/LINQ3.deps.json
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/bin/Debug/net6.0/LINQ3.runtimeconfig.json
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/bin/Debug/net6.0/LINQ3.dll
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/bin/Debug/net6.0/LINQ3.pdb
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.csproj.AssemblyReference.cache
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.AssemblyInfoInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.AssemblyInfo.cs
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.csproj.CoreCompileInputs.cache
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.dll
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/refint/LINQ3.dll
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.pdb
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/LINQ3.genruntimeconfig.cache
+/home/mbiman/Documents/repos/learning-csharp/LINQ3/obj/Debug/net6.0/ref/LINQ3.dll
